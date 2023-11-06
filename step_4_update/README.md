@@ -1,4 +1,4 @@
-# Step 4 - SELECT
+# Step 4 - UPDATE
 
 ## 4.1 Update data
 
